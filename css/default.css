@@ -1,0 +1,16 @@
+        /* css */
+        /* 选择器 */
+
+
+        body {
+            /* 背景默认颜色 */
+            background-color: #1e2d39;
+            /* 文字默认颜色 */
+            color: #ffffff;
+        }
+
+        /* 超链接默认样式 */
+        a {
+            color: #ff9f53;
+            text-decoration: none;
+        }
